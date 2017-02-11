@@ -1,0 +1,10 @@
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\bin\Debug\EjemDB.exe.config
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\bin\Debug\EjemDB.exe
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\bin\Debug\EjemDB.pdb
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\obj\Debug\EjemDB.csprojResolveAssemblyReference.cache
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\obj\Debug\EjemDB.CRUD.resources
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\obj\Debug\EjemDB.Form1.resources
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\obj\Debug\EjemDB.Properties.Resources.resources
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\obj\Debug\EjemDB.csproj.GenerateResource.Cache
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\obj\Debug\EjemDB.exe
+c:\users\octavio\documents\visual studio 2015\Projects\EjemDB\EjemDB\obj\Debug\EjemDB.pdb
