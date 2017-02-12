@@ -103,7 +103,7 @@ namespace EjemDB
         public DataSet ConsultaTabla(string cliente, string codigo_cli)
         {
             //Se genera un objeto de la clase DataSet (almacén de datos, representa una base de datos
-            // en memoria y desconecta del proveedor de datos, contiene tablas y sus relaciones)
+            // en memoria y desconecta del proveedor de datos, contiene tablas y sus relaciones).
             DataSet dS = new DataSet();
 
             //Se genera un objeto Adaptador (adaptador entre un objeto DataSet y sus operaciones
