@@ -282,7 +282,7 @@ namespace EjemDB
            
         }
 
-        //Validaciones ########################.
+        //Validaciones ########################
         private void textBoxCodigoCliente_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (char.IsNumber(e.KeyChar) || e.KeyChar == (char)Keys.Enter ||
